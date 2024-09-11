@@ -197,7 +197,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2706388210093122533}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: -2097564474886303343}
+        m_TargetAssemblyTypeName: Mod, Assembly-CSharp
+        m_MethodName: ClickMod
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &-2097564474886303343
 MonoBehaviour:
   m_ObjectHideFlags: 0
