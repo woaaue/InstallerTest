@@ -2,6 +2,7 @@ using System;
 using UnityEngine;
 using System.Linq;
 using UnityEditor;
+using UnityEngine.UI;
 using System.Collections.Generic;
 
 [CreateAssetMenu(fileName = "ModSettings", menuName = "Installer_Test/ModSettings", order = 1)]
