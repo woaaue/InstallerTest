@@ -2,6 +2,7 @@ using UnityEngine;
 
 public sealed class ModsScreenController : MonoBehaviour
 {
+    [SerializeField] private DescriptionScreenController _descriptionScreenController;
     [SerializeField] private GameObject _screen;
     [SerializeField] private PoolMods _poolMods;
 
@@ -18,7 +19,7 @@ public sealed class ModsScreenController : MonoBehaviour
 
         _poolMods.Mods.Pool.ForEach(mod =>
         {
-            mod.Setup(settings[counter].Icon, settings[counter].GetLanguageSettings(currentLocale).Name);
+            mod.Setup(settings[counter].Id, currentLocale, _descriptionScreenController);
             counter++;
         });
     }
