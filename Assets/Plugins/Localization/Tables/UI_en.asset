@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 26fa5f29d42211f4583c359ae1b4f236, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 14193205248
+    m_Localized: 'Shader Mod
+
+      Realistic Minecraft'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 557401710592
+    m_Localized: Shader Mod Realistic Minecraft -ultra shaders for realistic game
+      in our MCPE app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 925682573312
+    m_Localized: Mods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100899622912
+    m_Localized: Instruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1310128283648
+    m_Localized: Privacy policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714358525952
+    m_Localized: Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480413270016
+    m_Localized: Install
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7069662650368
+    m_Localized: Installation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7247736020992
+    m_Localized: Open mod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7578658217984
+    m_Localized: "1. Go to the page of the mod you are interested in by clicking
+      on the button with the name of the mod.\r\n2. Select the mod you are interested
+      in and click the open button.\r\n3. Click the download button. \r\n4. Wait
+      for the mod to be installed.\r\n5. Click the open addon button. After you have
+      Minecraft will open and the import will take place. If the import did not happen,
+      close Minecraft and reopen the mod.\r\n6. If you have done everything correctly
+      and the version of your minecraft matches and is contained in the supported
+      versions, you will see the phrase \u2018Successful import: \u2019\r\n7. Create
+      a new world. In the \u2018Add-ons\u2019 tab click \u2018Resource Sets\u2019,
+      after clicking \u2018My Sets\u2019 find and select the installed addon and
+      click activate.\r\n8. Also, don't forget to apply the parameter sets if you
+      have them. Click \u2018Parameter Sets\u2019 after click \u2018My Sets\u2019
+      find and select the installed addon and click activate. If there are no parameters,
+      you can skip this step.\r\n9. Click create world and enjoy the game with the
+      new addon!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1959234576384
+    m_Localized: "We have developed the application \u201CShader Mod Realistic Minecraft\u201D
+      as a free application. This application is publicly accessible and intended
+      for use by any user.\r\nThis page is used to inform visitors of our policies
+      regarding the collection, use, and disclosure of personal information.\r\nYou
+      agree to the transfer of personal data to the services and SDKs embedded in
+      our application, as well as the processing of files and access to the file
+      system of your device. The personal data collected by us will be used to provide
+      and improve the application. We will not use your data or transfer it to third
+      parties, except as described in this privacy policy.\r\nThe terms used in this
+      Privacy Policy have the same meanings as our terms available on \u201CShader
+      Mod Realistic Minecraft\u201D, unless otherwise defined in this Privacy Policy.\r\n\r\nCollection
+      and Use of Information\r\n\r\nThe application uses third-party services that
+      may collect information used to identify you. Links to the privacy policies
+      of third-party service providers used by the application:\r\n\u25CF https://www.google.com/policies/privacy/>Google
+      Play Services\r\n\u25CF https://support.google.com/admob/answer/6128543?hl=en>AdMob\r\n\u25CF
+      https://unity3d.com/ru/legal/privacy-policy>Unity\r\n\u25CF https://yandex.ru/legal/confidential/>Appmetrica\r\n\r\nData\r\n\r\nPlease
+      note that each time you use our application, in the event of an application
+      error, we transmit data and information to the Appmetrica service (through
+      third-party products) on your phone. This data may include information such
+      as your device\u2019s IP address, device name, operating system version, application
+      configuration when using our Service, the time and date of use of the Service,
+      and other statistical data as specified in Appmetrica\u2019s privacy policy.\r\n\r\nData
+      Processing\r\n\r\nCollecting Android advertising identifiers is optional. The
+      advertising identifier can be reset or removed by users using the advertising
+      identifier commands in the Android settings menu.\r\n\r\nSome other features
+      of the Google Mobile Ads SDK, such as the ad suppression feature, may also
+      prevent the transmission of advertising identifiers and other data.\r\n\r\nData
+      is collected and transmitted automatically\r\n\r\nThe Google Mobile Ads SDK
+      automatically collects and transmits data types for advertising, analytics,
+      and fraud prevention.\r\n\r\nPersonal and Confidential User Data\r\n\r\nThe
+      \u201CShader Mod Realistic Minecraft\u201D application safely processes all
+      personal and confidential user data, including transmitting it using modern
+      cryptography (e.g., via the HTTPS protocol).\r\n\r\nTo access the data itself,
+      the app requests access to this data from users (in exceptional cases, it does
+      so without a request, indicating this in the app\u2019s policy).\r\n\r\nLocation\r\n\r\nWe
+      do not collect data about your exact location; for application statistics,
+      we collect approximate location data based on your country and/or region.\r\n\r\nFiles
+      and Documents\r\n\r\nWe collect information about your data on the device that
+      is related to Minecraft. All data is stored temporarily. Users cannot prevent
+      the collection of this data, as it is necessary for the proper functioning
+      of the application. For example, we can see if you have Minecraft installed
+      or not.\r\n\r\nApplication Activity History\r\n\r\nFor better application performance
+      and user experience, we track your actions in our application and collect data
+      from your phone about installed applications related to Minecraft.\r\n\r\nApplication
+      Information and Performance Data\r\n\r\nWe do not provide personal information
+      to third parties. We care about the complete security of our users. We collect
+      Error Logs and Analytics. For the correct operation of the application, we
+      track errors and crashes to improve the performance of our products.\r\n\r\nDevice
+      Identifiers\r\n\r\nWe collect data on user interaction with the application
+      and its productivity for analytics and advertising.\r\n\r\nService Providers\r\n\r\nWe
+      may employ third-party companies and individuals for the following reasons:\r\n\u25CF
+      To facilitate our application;\r\n\u25CF To provide the application on our
+      behalf;\r\n\u25CF To perform services related to the application; or\r\n\u25CF
+      To help us analyze how our application is used.\r\nWe want to inform users
+      of the application that third parties have access to your Personal Information.
+      The reason is to perform the tasks assigned to them on our behalf. However,
+      they are obligated not to disclose or use the information for any other purpose
+      as specified in their policies.\r\n\r\nChildren\u2019s Privacy\r\n\r\nOur application
+      is not intended for persons under the age of 13. Our application can be used
+      by children under 13 with parental consent. We do not collect personal information
+      from children under 13. In the event of accidental collection of data from
+      such users, it is immediately deleted from all servers (including those to
+      which data is transmitted). If you are a parent or guardian and you are aware
+      that your child has provided us with personal information, please contact us
+      via email on our application page so that we can take the necessary actions.\r\n\r\nSecurity\r\n\r\nWe
+      value your trust in providing us with your personal information, so we strive
+      to use commercially acceptable means to protect it. But remember that no method
+      of transmission over the Internet or method of electronic storage is 100% secure
+      and reliable. We cannot guarantee its absolute security.\r\n\r\nLinks to Other
+      Sites\r\n\r\nOur application may contain links to other sites. Please note
+      that these external sites are not operated by us (for example, it may be advertisements).
+      Therefore, we strongly advise you to review the Privacy Policy of these websites.
+      We do not control and are not responsible for the content, privacy policies,
+      or practices of any third-party sites or services.\r\n\r\nCopyright Protection\r\n\r\nThe
+      word Minecraft (whose product we use for distribution and use by other players)
+      is not copyrighted and is publicly available https://www.microsoft.com/en-us/servicesagreement>https://www.microsoft.com/en-us/servicesagreement\r\n\r\nAll
+      modifications for applications and games are installed separately in our application
+      at the request of the user who downloaded it. We are ready to remove the modification
+      posted in our application at the request of its developer upon providing evidence
+      of involvement in the development. The collected modifications are free and
+      were taken from publicly available free internet resources without indicating
+      any copyright.\r\n\r\nChanges to This Privacy Policy\r\n\r\nWe may update our
+      Privacy Policy from time to time. Thus, you are advised to review this page
+      periodically for any changes. We will notify you of any changes by posting
+      the new Privacy Policy on this page.\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

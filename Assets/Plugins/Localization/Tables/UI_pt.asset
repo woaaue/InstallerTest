@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 26fa5f29d42211f4583c359ae1b4f236, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 14193205248
+    m_Localized: "Mod de Shader \nRealista para Minecraft"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 557401710592
+    m_Localized: Mod de Shader Realista para Minecraft - shaders ultra realistas
+      para um jogo realista no nosso aplicativo MCPE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 925682573312
+    m_Localized: Mods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100899622912
+    m_Localized: "Instru\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1310128283648
+    m_Localized: "Pol\xEDtica de Privacidade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714358525952
+    m_Localized: "Pol\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480413270016
+    m_Localized: Instalar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7069662650368
+    m_Localized: "Instala\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7247736020992
+    m_Localized: Mod aberto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7578658217984
+    m_Localized: "1. Vai \xE0 p\xE1gina da modifica\xE7\xE3o que te interessa clicando
+      no bot\xE3o com o nome da modifica\xE7\xE3o.\r\n2. Selecione a modifica\xE7\xE3o
+      em que est\xE1 interessado e clique no bot\xE3o Abrir.\r\n3. Clica no bot\xE3o
+      de transfer\xEAncia. \r\n4. Espera que o mod seja instalado.\r\n5. Clique no
+      bot\xE3o abrir addon. Depois disso, o Minecraft abrir-se-\xE1 e a importa\xE7\xE3o
+      ter\xE1 lugar. Se a importa\xE7\xE3o n\xE3o aconteceu, fecha o Minecraft e
+      reabre o mod.\r\n6. Se tiveres feito tudo corretamente e a vers\xE3o do teu
+      minecraft corresponder e estiver contida nas vers\xF5es suportadas, ver\xE1s
+      a frase \u201CSuccessful import\u201D: '\r\n7. Cria um novo mundo. No separador
+      \u201CAdd-ons\u201D clica em \u201CResource Sets\u201D, depois de clicares
+      em \u201CMy Sets\u201D encontra e seleciona o addon instalado e clica em ativar.\r\n8.
+      Al\xE9m disso, n\xE3o te esque\xE7as de aplicar os conjuntos de par\xE2metros,
+      se os tiveres. Clique em \u201CParameter Sets\u201D (Conjuntos de par\xE2metros)
+      e, depois de clicar em \u201CMy Sets\u201D (Os meus conjuntos), localize e
+      selecione a extens\xE3o instalada e clique em ativar. Se n\xE3o existirem par\xE2metros,
+      podes saltar este passo.\r\n9. Clica em criar mundo e desfruta do jogo com
+      o novo suplemento!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1959234576384
+    m_Localized: "Desenvolvemos o aplicativo \u201CShader Mod Realistic Minecraft\u201D
+      como um aplicativo gratuito. Este aplicativo est\xE1 acess\xEDvel ao p\xFAblico
+      e \xE9 destinado para uso por qualquer usu\xE1rio.\r\nEsta p\xE1gina \xE9 usada
+      para informar os visitantes sobre nossas pol\xEDticas em rela\xE7\xE3o \xE0
+      coleta, uso e divulga\xE7\xE3o de informa\xE7\xF5es pessoais.\r\nVoc\xEA concorda
+      com a transfer\xEAncia de dados pessoais para os servi\xE7os e SDKs integrados
+      em nosso aplicativo, bem como com o processamento de arquivos e o acesso ao
+      sistema de arquivos do seu dispositivo. Os dados pessoais coletados por n\xF3s
+      ser\xE3o usados para fornecer e melhorar o aplicativo. N\xE3o usaremos seus
+      dados nem os transferiremos para terceiros, exceto conforme descrito nesta
+      pol\xEDtica de privacidade.\r\nOs termos usados nesta Pol\xEDtica de Privacidade
+      t\xEAm os mesmos significados que nossos termos dispon\xEDveis no \u201CShader
+      Mod Realistic Minecraft\u201D, a menos que definido de outra forma nesta Pol\xEDtica
+      de Privacidade.\r\n\r\nColeta e Uso de Informa\xE7\xF5es\r\n\r\nO aplicativo
+      usa servi\xE7os de terceiros que podem coletar informa\xE7\xF5es utilizadas
+      para identific\xE1-lo. Links para as pol\xEDticas de privacidade dos provedores
+      de servi\xE7os de terceiros usados pelo aplicativo:\r\n\u25CF https://www.google.com/policies/privacy/>Google
+      Play Services\r\n\u25CF https://support.google.com/admob/answer/6128543?hl=en>AdMob\r\n\u25CF
+      https://unity3d.com/ru/legal/privacy-policy>Unity\r\n\u25CF https://yandex.ru/legal/confidential/>Appmetrica\r\n\r\nDados\r\n\r\nObserve
+      que, sempre que voc\xEA usar nosso aplicativo, em caso de erro no aplicativo,
+      transmitimos dados e informa\xE7\xF5es para o servi\xE7o Appmetrica (atrav\xE9s
+      de produtos de terceiros) no seu telefone. Esses dados podem incluir informa\xE7\xF5es
+      como o endere\xE7o IP do seu dispositivo, nome do dispositivo, vers\xE3o do
+      sistema operacional, configura\xE7\xE3o do aplicativo ao usar nosso Servi\xE7o,
+      data e hora de uso do Servi\xE7o e outros dados estat\xEDsticos conforme especificado
+      na pol\xEDtica de privacidade do Appmetrica.\r\n\r\nProcessamento de Dados\r\n\r\nA
+      coleta de identificadores de publicidade do Android \xE9 opcional. O identificador
+      de publicidade pode ser redefinido ou removido pelos usu\xE1rios usando os
+      comandos do identificador de publicidade no menu de configura\xE7\xF5es do
+      Android.\r\n\r\nAlgumas outras fun\xE7\xF5es do SDK Google Mobile Ads, como
+      a fun\xE7\xE3o de supress\xE3o de an\xFAncios, tamb\xE9m podem impedir a transmiss\xE3o
+      de identificadores de publicidade e outros dados.\r\n\r\nOs dados s\xE3o coletados
+      e transmitidos automaticamente\r\n\r\nO SDK Google Mobile Ads coleta e transmite
+      automaticamente tipos de dados para publicidade, an\xE1lise e preven\xE7\xE3o
+      de fraudes.\r\n\r\nDados Pessoais e Confidenciais dos Usu\xE1rios\r\n\r\nO
+      aplicativo \u201CShader Mod Realistic Minecraft\u201D processa com seguran\xE7a
+      todos os dados pessoais e confidenciais dos usu\xE1rios, incluindo sua transmiss\xE3o
+      usando criptografia moderna (por exemplo, via protocolo HTTPS).\r\n\r\nPara
+      acessar os pr\xF3prios dados, o aplicativo solicita acesso a esses dados dos
+      usu\xE1rios (em casos excepcionais, faz isso sem solicita\xE7\xE3o, indicando
+      isso na pol\xEDtica do pr\xF3prio aplicativo).\r\n\r\nLocaliza\xE7\xE3o\r\n\r\nN\xF3s
+      n\xE3o coletamos dados sobre sua localiza\xE7\xE3o exata; para estat\xEDsticas
+      do aplicativo, coletamos dados de localiza\xE7\xE3o aproximados com base no
+      seu pa\xEDs e/ou regi\xE3o.\r\n\r\nArquivos e Documentos\r\n\r\nColetamos informa\xE7\xF5es
+      sobre seus dados no dispositivo que est\xE3o relacionados ao Minecraft. Todos
+      os dados s\xE3o armazenados temporariamente. Os usu\xE1rios n\xE3o podem impedir
+      a coleta desses dados, pois s\xE3o necess\xE1rios para o funcionamento adequado
+      do aplicativo. Por exemplo, podemos ver se voc\xEA tem o Minecraft instalado
+      ou n\xE3o.\r\n\r\nHist\xF3rico de Atividades no Aplicativo\r\n\r\nPara melhor
+      desempenho do aplicativo e experi\xEAncia do usu\xE1rio, rastreamos suas a\xE7\xF5es
+      em nosso aplicativo e coletamos dados do seu telefone sobre aplicativos instalados
+      relacionados ao Minecraft.\r\n\r\nInforma\xE7\xF5es do Aplicativo e Dados de
+      Desempenho\r\n\r\nN\xE3o fornecemos informa\xE7\xF5es pessoais a terceiros.
+      Nos preocupamos com a seguran\xE7a total de nossos usu\xE1rios. Coletamos Logs
+      de Erros e An\xE1lises. Para o funcionamento correto do aplicativo, rastreamos
+      erros e falhas para melhorar o desempenho de nossos produtos.\r\n\r\nIdentificadores
+      de Dispositivo\r\n\r\nColetamos dados sobre a intera\xE7\xE3o do usu\xE1rio
+      com o aplicativo e sua produtividade para an\xE1lise e publicidade.\r\n\r\nProvedores
+      de Servi\xE7os\r\n\r\nPodemos empregar empresas e indiv\xEDduos de terceiros
+      pelos seguintes motivos:\r\n\u25CF Para facilitar o nosso aplicativo;\r\n\u25CF
+      Para fornecer o aplicativo em nosso nome;\r\n\u25CF Para realizar servi\xE7os
+      relacionados ao aplicativo; ou\r\n\u25CF Para nos ajudar a analisar como nosso
+      aplicativo \xE9 usado.\r\nQueremos informar os usu\xE1rios do aplicativo que
+      terceiros t\xEAm acesso \xE0s suas informa\xE7\xF5es pessoais. O motivo \xE9
+      realizar as tarefas atribu\xEDdas a eles em nosso nome. No entanto, eles s\xE3o
+      obrigados a n\xE3o divulgar ou usar as informa\xE7\xF5es para qualquer outro
+      prop\xF3sito, conforme especificado em suas pol\xEDticas.\r\n\r\nPrivacidade
+      das Crian\xE7as\r\n\r\nNosso aplicativo n\xE3o \xE9 destinado a pessoas com
+      menos de 13 anos. Nosso aplicativo pode ser usado por crian\xE7as com menos
+      de 13 anos com o consentimento dos pais. N\xE3o coletamos informa\xE7\xF5es
+      pessoais de crian\xE7as com menos de 13 anos. Em caso de coleta acidental de
+      dados desses usu\xE1rios, eles s\xE3o imediatamente exclu\xEDdos de todos os
+      servidores (incluindo aqueles para os quais os dados s\xE3o transmitidos).
+      Se voc\xEA \xE9 pai ou respons\xE1vel e sabe que seu filho nos forneceu informa\xE7\xF5es
+      pessoais, entre em contato conosco por e-mail na p\xE1gina do nosso aplicativo
+      para que possamos tomar as medidas necess\xE1rias.\r\n\r\nSeguran\xE7a\r\n\r\nValorizamos
+      sua confian\xE7a em nos fornecer suas informa\xE7\xF5es pessoais, por isso
+      nos esfor\xE7amos para usar meios comercialmente aceit\xE1veis para proteg\xEA-las.
+      Mas lembre-se de que nenhum m\xE9todo de transmiss\xE3o pela Internet ou m\xE9todo
+      de armazenamento eletr\xF4nico \xE9 100% seguro e confi\xE1vel. N\xE3o podemos
+      garantir sua seguran\xE7a absoluta.\r\n\r\nLinks para Outros Sites\r\n\r\nNosso
+      aplicativo pode conter links para outros sites. Observe que esses sites externos
+      n\xE3o s\xE3o operados por n\xF3s (por exemplo, pode ser propaganda). Portanto,
+      recomendamos fortemente que voc\xEA revise a Pol\xEDtica de Privacidade desses
+      sites. N\xE3o controlamos e n\xE3o somos respons\xE1veis pelo conte\xFAdo,
+      pol\xEDticas de privacidade ou pr\xE1ticas de quaisquer sites ou servi\xE7os
+      de terceiros.\r\n\r\nProte\xE7\xE3o de Direitos Autorais\r\n\r\nA palavra Minecraft
+      (cujo produto usamos para distribui\xE7\xE3o e uso por outros jogadores) n\xE3o
+      \xE9 protegida por direitos autorais e est\xE1 dispon\xEDvel publicamente https://www.microsoft.com/en-us/servicesagreement>https://www.microsoft.com/en-us/servicesagreement\r\n\r\nTodas
+      as modifica\xE7\xF5es para aplicativos e jogos s\xE3o instaladas separadamente
+      em nosso aplicativo a pedido do usu\xE1rio que o baixou. Estamos prontos para
+      remover a modifica\xE7\xE3o postada em nosso aplicativo a pedido do desenvolvedor,
+      mediante fornecimento de provas de envolvimento no desenvolvimento. As modifica\xE7\xF5es
+      coletadas s\xE3o gratuitas e foram retiradas de recursos gratuitos da Internet
+      sem indica\xE7\xE3o de direitos autorais.\r\n\r\nMudan\xE7as nesta Pol\xEDtica
+      de Privacidade\r\n\r\nPodemos atualizar nossa Pol\xEDtica de Privacidade de
+      tempos em tempos. Portanto, voc\xEA \xE9 aconselhado a revisar esta p\xE1gina
+      periodicamente para qualquer mudan\xE7a. Notificaremos voc\xEA sobre quaisquer
+      mudan\xE7as postando a nova Pol\xEDtica de Privacidade nesta p\xE1gina.\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
