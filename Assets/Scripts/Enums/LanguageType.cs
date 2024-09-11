@@ -1,7 +1,7 @@
 public enum LanguageType
 { 
-    Ru,
-    En,
-    Es,
-    Pt
+    en,
+    pt,
+    ru,
+    es,
 }

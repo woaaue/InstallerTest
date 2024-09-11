@@ -8,6 +8,6 @@ public sealed class MenuController : MonoBehaviour
     [UsedImplicitly]
     public void ShowMods()
     {
-        _modsScreen.InitScreen(LanguageType.En);
+        _modsScreen.InitScreen(LanguageType.en);
     }
 }
