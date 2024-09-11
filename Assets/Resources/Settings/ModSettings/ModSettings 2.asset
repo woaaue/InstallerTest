@@ -12,7 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 996ae8ce0284db44488d394054fb50ef, type: 3}
   m_Name: ModSettings 2
   m_EditorClassIdentifier: 
+  <Id>k__BackingField: 805e8872-6a51-4de7-9810-7f65fcd79031
   <Icon>k__BackingField: {fileID: 21300000, guid: 6a06dac3e116b4248b003bb32ce263bc, type: 3}
+  <Screenshots>k__BackingField:
+  - {fileID: 21300000, guid: 6457b8cfb615c1242ac4d180149db4b6, type: 3}
+  - {fileID: 21300000, guid: cfa5c1ace93d43d46a18ab5b5852cbd9, type: 3}
+  - {fileID: 21300000, guid: 6ab37d8f26e0dfb45983ccfa4a94a25a, type: 3}
+  - {fileID: 21300000, guid: 773fd0fd59943fe4f84792a9103a9020, type: 3}
+  - {fileID: 21300000, guid: 3cac70d6dcac17f4e92f01b4fe032849, type: 3}
   <Languages>k__BackingField:
   - Type: 0
     Name: "\u0424\u041D\u0410\u0424 6 \u0425\u0435\u043B\u043B\u043E\u0443\u0438\u043D"

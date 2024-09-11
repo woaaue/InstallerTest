@@ -12,7 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 996ae8ce0284db44488d394054fb50ef, type: 3}
   m_Name: ModSettings 1
   m_EditorClassIdentifier: 
+  <Id>k__BackingField: 1baa0a9c-48af-4047-9aba-51781d61bd8c
   <Icon>k__BackingField: {fileID: 21300000, guid: cdc97df7be5069e4bb112f426fdae30f, type: 3}
+  <Screenshots>k__BackingField:
+  - {fileID: 21300000, guid: 154e8560bf2909043ae9f482df542e5a, type: 3}
+  - {fileID: 21300000, guid: 21fefdfe95e9d3947adf5dabca9fcf95, type: 3}
+  - {fileID: 21300000, guid: 366c97adb1086524cae4888a2a24f84c, type: 3}
+  - {fileID: 21300000, guid: 20ac529092da65c4b85958272472a274, type: 3}
+  - {fileID: 21300000, guid: 0df3c867592ca5449998f4fc203b743a, type: 3}
+  - {fileID: 21300000, guid: 8efc2ce5dbf6d234a97009fc391d92c0, type: 3}
+  - {fileID: 21300000, guid: fdab9b1eb23c25f45af2f05593506604, type: 3}
+  - {fileID: 21300000, guid: d436a580c1d65d8468c55255457f6f84, type: 3}
+  - {fileID: 21300000, guid: c7851c0b8ca575a4ba6241a6f828ccec, type: 3}
   <Languages>k__BackingField:
   - Type: 0
     Name: "\u041F\u044F\u0442\u044C \u043D\u043E\u0447\u0435\u0439 \u0443 \u0424\u0440\u0435\u0434\u0434\u0438

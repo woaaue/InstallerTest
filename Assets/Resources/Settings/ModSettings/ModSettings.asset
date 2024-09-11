@@ -12,7 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 996ae8ce0284db44488d394054fb50ef, type: 3}
   m_Name: ModSettings
   m_EditorClassIdentifier: 
+  <Id>k__BackingField: d84f21b5-b46f-4883-bb89-141b002d4707
   <Icon>k__BackingField: {fileID: 21300000, guid: bc6e7b555c92d434dadf9262761a8644, type: 3}
+  <Screenshots>k__BackingField:
+  - {fileID: 21300000, guid: ceec6114e1f652a4eaf0935e55b6031f, type: 3}
+  - {fileID: 21300000, guid: e59094183b739e54fab51c336d62196d, type: 3}
+  - {fileID: 21300000, guid: b2fdb940002fa0f4a8d864206ef4c7fd, type: 3}
+  - {fileID: 21300000, guid: 6a0b6f87173d981418aa5673580308c9, type: 3}
+  - {fileID: 21300000, guid: 8a60179727b38c34886f36b6314c41d8, type: 3}
+  - {fileID: 21300000, guid: 457fcc42b2b698e478e302ef2239550b, type: 3}
+  - {fileID: 21300000, guid: 3d930529a8180af4bbffa2b9adfd4132, type: 3}
+  - {fileID: 21300000, guid: 5e9efb7d57374d04b9717bbf6cb036b2, type: 3}
   <Languages>k__BackingField:
   - Type: 0
     Name: "\u0424\u041D\u0410\u0424"
