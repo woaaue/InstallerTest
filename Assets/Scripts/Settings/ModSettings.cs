@@ -2,7 +2,6 @@ using System;
 using UnityEngine;
 using System.Linq;
 using UnityEditor;
-using UnityEngine.UI;
 using System.Collections.Generic;
 
 [CreateAssetMenu(fileName = "ModSettings", menuName = "Installer_Test/ModSettings", order = 1)]
@@ -15,6 +14,7 @@ public sealed class ModSettings : ScriptableObject
 
     public LanguageSettings GetLanguageSettings(LanguageType languageType) => Languages.First(setting => setting.Type == languageType);
 
+#if UNITY_EDITOR
     public void SetId()
     {
         Id = Guid.NewGuid().ToString();
@@ -23,6 +23,7 @@ public sealed class ModSettings : ScriptableObject
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
     }
+#endif
 }
 
 [Serializable]
