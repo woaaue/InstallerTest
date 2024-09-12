@@ -44,10 +44,6 @@ public sealed class LocaleSelector : MonoBehaviour
                 break;
 
             case 2:
-                _menuController.SetupLocale(LanguageType.ru);
-                break;
-
-            case 3:
                 _menuController.SetupLocale(LanguageType.es);
                 break;
         }
